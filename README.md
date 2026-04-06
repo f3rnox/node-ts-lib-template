@@ -113,7 +113,8 @@ plugins, the full list is below:
 - [**`eslint-plugin-no-secrets`**][ep-no-secrets-url] -- An
     [**`ESLint`**][eslint-url] rule that searches for potential secrets/keys in
     code and JSON files.
-- [**`eslint-plugin-optimize-regex`**][ep-optimize-regex-url] -- Optimize regex literals.
+- [**`eslint-plugin-optimize-regex`**][ep-optimize-regex-url] -- Optimize regex
+    literals.
 - [**`eslint-plugin-promise`**][ep-promise-url] -- Enforce best practices for
     JavaScript promises.
 - [**`eslint-plugin-pure`**][ep-pure-url] -- Enforce rules to make your code purely
