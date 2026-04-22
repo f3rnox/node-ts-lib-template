@@ -48,6 +48,7 @@
     "release": "pnpm prepare-release && pnpm update-version && git push --follow-tags origin main",
     "serve:coverage": "http-server ./coverage",
     "serve:docs": "http-server ./docs",
+    "start": "ts-node src/index.ts",
     "test": "NODE_PATH=./src NODE_ENV=test vitest",
     "update-deps": "updates -u -g -c",
     "update-version": "standard-version -a"
