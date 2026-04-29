@@ -1,5 +1,6 @@
-/.github
-/src/tests
+CHANGELOG.md
+README.md
+/docs-module
 /docs
 pnpm-lock.yaml
 *.config.*
