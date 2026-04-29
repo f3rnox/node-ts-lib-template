@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/f3rnox/node-ts-lib-template/compare/v0.0.9...v0.0.10) (2026-04-29)
+
+
+### Features
+
+* add github publish workflow ([07711cd](https://github.com/f3rnox/node-ts-lib-template/commit/07711cd9dcd1ff8e42cf139251973c7b8c57b8c3))
+* update github ci workflow ([be22cf5](https://github.com/f3rnox/node-ts-lib-template/commit/be22cf5c3ad5d883c93760bdba79b5e865888738))
+
 ### 0.0.9 (2026-04-22)
 
 
