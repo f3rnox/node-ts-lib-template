@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.13](https://github.com/f3rnox/node-ts-lib-template/compare/v0.0.12...v0.0.13) (2026-04-29)
+
+
+### Features
+
+* add empty test suite and update test script ([f9b1642](https://github.com/f3rnox/node-ts-lib-template/commit/f9b164241ca413f16573693d88f3250826a6cd25))
+
 ### [0.0.12](https://github.com/f3rnox/node-ts-lib-template/compare/v0.0.11...v0.0.12) (2026-04-29)
 
 
