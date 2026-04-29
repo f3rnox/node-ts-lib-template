@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/f3rnox/node-ts-lib-template/compare/v0.0.10...v0.0.11) (2026-04-29)
+
+
+### Bug Fixes
+
+* update prettierignore ([cb70d12](https://github.com/f3rnox/node-ts-lib-template/commit/cb70d1247b7e24ed49cf29a1166a1e88fa351832))
+
 ### [0.0.10](https://github.com/f3rnox/node-ts-lib-template/compare/v0.0.9...v0.0.10) (2026-04-29)
 
 
